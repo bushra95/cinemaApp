@@ -1,12 +1,12 @@
-.app{
-    min-height: 100vh;
-    background-color: rgb(6, 26, 26);
-    color: white;
-    padding-top: 130px;
-    padding-bottom: 70px;
+.app {
+  min-height: 100vh;
+  background-color: #6a1b9a;
+  color: white;
+  padding-top: 130px;
+  padding-bottom: 70px;
 }
-@media (max-width:700px){
-    .app{
-        padding-top: 70px;
-    }
+@media (max-width: 700px) {
+  .app {
+    padding-top: 70px;
+  }
 }
